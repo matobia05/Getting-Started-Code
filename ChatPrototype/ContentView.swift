@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  ChatPrototype
 //
-//  Created by Mena Tobia on 11/27/24.
 //
 
 import SwiftUI
